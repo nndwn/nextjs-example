@@ -14,8 +14,8 @@ maybe solve problem error like this
 Execute create-next-app with npm or Yarn to bootstrap the example:
 
 ```bash
-npx create-next-app nextjs-blog --use-npm --example "https://github.com/nndwn/nextjs-example/tree/main/nextjs-with-customFont"
+npx create-next-app --use-npm --example "https://github.com/nndwn/nextjs-example/tree/main/nextjs-with-customFont"
 ```
 ```bash
-yarn create-next-app nextjs-blog --use-npm --example "https://github.com/nndwn/nextjs-example/tree/main/nextjs-with-customFont"
+yarn create-next-app --use-npm --example "https://github.com/nndwn/nextjs-example/tree/main/nextjs-with-customFont"
 ```
