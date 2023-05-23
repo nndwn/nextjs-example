@@ -5,8 +5,8 @@ this Stater use emotion for css in js , use emotion so easy and can nesting like
 Execute create-next-app with npm or Yarn to bootstrap the example:
 
 ```bash
-npx create-next-app nextjs-blog --use-npm --example "https://github.com/nndwn/nextjs-example/tree/main/nextjs-starter-emotion"
+npx create-next-app --use-npm --example "https://github.com/nndwn/nextjs-example/tree/main/nextjs-starter-emotion"
 ```
 ```bash
-yarn create-next-app nextjs-blog --use-npm --example "https://github.com/nndwn/nextjs-example/tree/main/nextjs-starter-emotion"
+yarn create-next-app --use-npm --example "https://github.com/nndwn/nextjs-example/tree/main/nextjs-starter-emotion"
 ```
